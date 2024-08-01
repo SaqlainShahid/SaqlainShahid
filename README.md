@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @SaqlainShahid
-- 👀 I’m interested in Marketing projects , and web development
-- 🌱 I’m currently learning C++ and python
-- 💞️ I’m looking to collaborate on C++ projects
-- 📫 How to reach me saqlainshahid702@gmail.com
+## 👋 Hi, I'm @SaqlainShahid
 
-<!---
-SaqlainShahid/SaqlainShahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👀 Interests
+- I'm interested in Marketing projects and Web Development
+
+### 🌱 Currently Learning
+- SQL and Backend Database Management
+
+### 💼 Expertise
+- Flutter, Dart, Android Studio
+- Visual Studio, Blazor, .NET Framework
+
+### 🖥️ Projects
+- **Calculator using C++**
+- **Calculator using Python**
+- **NSONS website** (running and deployed)
+- **Laundry app using Flutter**
+- **Car management system in OOP**
+- **Inventory store in Blazor**
+- **Location tracker app in Flutter** (working phase)
+- **University portal using Blazor** (deployed and running)
+- **Portfolio using HTML, CSS, and Java**
+- **Front-end of a travel booking website using HTML, CSS, and JavaScript**
+
+### 🔧 Gigs on Fiverr
+- Portfolio Website Development
+- Professional Flutter App Development with Firebase Database Integration
+- AI Chatbot Development
+
+### 🤝 Collaboration
+- Open to collaborations on projects suitable for a Computer Science student
+
+### 📫 How to Reach Me
+- **Email**: saqlainshahid702@gmail.com
